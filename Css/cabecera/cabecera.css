@@ -1,0 +1,17 @@
+.cabecera {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 1rem;
+}
+.cabecera__titulo{
+    font-family: monospace, cursive;
+    font-size: 2rem;
+}
+.cabecera__link {
+    font-size: 1.2rem;
+    color: #0026ff;
+    text-decoration: underline;
+    font-weight: bold;
+    letter-spacing: -2px;
+}

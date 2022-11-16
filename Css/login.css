@@ -1,0 +1,60 @@
+* {
+    font-family: monospace, cursive;
+}
+body {
+    background-color: #1c447d;
+    margin: 0;
+}
+.login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.login__marco {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: solid 2px #ffffff;
+    border-radius: 20px;
+    padding: 2rem;
+    margin
+}
+.login__input {
+    display: flex;
+    margin: 1rem;
+    align-items: center;
+}
+.login__txtbox {
+    border-radius: 10px;
+    border: solid 1px #808080;
+    width: 200px;
+    height: 1.5rem;
+    padding: 3px 10px;
+    
+}
+.logo {
+    width: 250px;
+}
+.icono {
+    width: 20px;
+    padding-right: 10px;
+}
+.candado {
+    width: 30px;
+    padding-right: 10px;
+}
+.login__boton {
+    background-color: #04f73f;
+    color: #ffffff;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: solid 2px #ffffff;
+    margin-top: 1rem;
+}
+.login__enlace {
+    margin: 1rem 0;
+}

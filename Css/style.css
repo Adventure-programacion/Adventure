@@ -1,0 +1,7 @@
+.contenedor {
+    width: 940px;
+    margin: 0 auto;
+    border: solid #808080 2px;
+    border-radius: 10px;
+    font-family: monospace, cursive;
+}
